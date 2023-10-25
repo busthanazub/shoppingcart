@@ -1,0 +1,25 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    font-size:500%
+    ;
+    font-style: italic;
+    /* font-style:; */
+
+}
+
+table{
+    color: rgb(12, 46, 26);
+    border: 44cm;
+    /* padding-right: 5px; */
+}
+
+h4{
+    size: 30cm;
+    color: rgb(255, 0, 0);
+}
+body{
+    color: darkseagreen;
+    background-color: rgb(194, 228, 194);
+}
+
